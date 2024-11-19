@@ -1,9 +1,12 @@
 ---
-title: TP1_ALG2
+title: TP1_ALG2_LZW
 layout: home
 ---
 
 # TP1_ALG2: Implementação do Algoritmo LZW
+
+* TOC
+{:toc}
 
 Este projeto apresenta uma implementação detalhada do algoritmo de compressão LZW (Lempel-Ziv-Welch). Ele utiliza estruturas de dados eficientes, como uma árvore trie compacta, para armazenar as sequências de bits de forma otimizada. A implementação suporta compressão e descompressão tanto de arquivos de texto (`.txt`) quanto de arquivos binários (`.bmp`), permitindo a escolha entre tamanhos de código fixos e variáveis.
 
