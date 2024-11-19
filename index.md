@@ -1,5 +1,5 @@
 ---
-title: Home
+title: TP1_ALG2
 layout: home
 ---
 
