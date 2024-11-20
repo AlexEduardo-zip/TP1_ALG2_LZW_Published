@@ -14,6 +14,7 @@ layout: home
   **Matrícula:** 2021032145  
 
 - **Nome:** Murilo Ribeiro
+  **Matrícula:** 2022037507 
 
 Este projeto apresenta uma implementação detalhada do algoritmo de compressão LZW (Lempel-Ziv-Welch). Ele utiliza estruturas de dados eficientes, como uma árvore trie compacta, para armazenar as sequências de bits de forma otimizada. A implementação suporta compressão e descompressão tanto de arquivos de texto (`.txt`) quanto de arquivos binários (`.bmp`), permitindo a escolha entre tamanhos de código fixos e variáveis.
 
