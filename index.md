@@ -358,13 +358,7 @@ Além disso, as visualizações oferecem uma maneira intuitiva de comparar o des
 
 ---
 
-## Conclusão
-
-A captura de estatísticas e a geração de relatórios e gráficos são ferramentas valiosas para a análise de desempenho do algoritmo LZW. Elas permitem não apenas avaliar a eficácia da compressão, mas também ajustar o algoritmo para melhor desempenho em diversos cenários. A visualização das métricas de compressão ajuda a tomar decisões informadas para futuras otimizações.
-
-
-
-## Imagem do Projeto
+## Teste com texto repetitivo
 
 ![Estatísticas de Compressão](images/lorem%20fixed.png)
 
@@ -386,7 +380,7 @@ Dada a natureza do texto com muitas repetições, a compressão foi bastante efi
 
 ---
 
-## Imagem do Projeto
+## Teste com texto repetitivo em tamanho variavel
 
 ![Estatísticas de Compressão](images/lorem_variavel.png)
 
@@ -408,7 +402,7 @@ A compressão com tamanho variável produziu resultados semelhantes à compress�
 
 ---
 
-## Imagem do Projeto
+## Teste com texto comum
 
 ![Estatísticas de Compressão](images/text_fixed.png)
 
@@ -430,7 +424,7 @@ A compressão neste arquivo foi ligeiramente menos eficiente do que a do texto d
 
 ---
 
-## Imagem do Projeto
+## Teste com texto comum em tamanho variavel
 
 ![Estatísticas de Compressão](images/text_variavel.png)
 
@@ -452,7 +446,7 @@ A compressão com tamanho variável gerou uma taxa de compressão melhor, pois a
 
 ---
 
-## Imagem do Projeto
+## Teste com imagem em BitMap
 
 ![Imagem em Bitmap](images/sample_640×426.bmp)
 
@@ -476,7 +470,7 @@ Neste caso, o arquivo comprimido acabou tendo um tamanho maior que o original. I
 
 ---
 
-## Imagem do Projeto
+## Teste com imagem em BitMap com cores iguais
 
 ![Imagem em Bitmap](images/sample_azul.bmp)
 
@@ -500,7 +494,7 @@ A repetição de cores na imagem permitiu à trie encontrar mais padrões, resul
 
 ---
 
-## Imagem do Projeto
+## Teste com imagem em BitMap com cores iguais em tamanho variavel
 
 ![Estatísticas de Compressão](images/imagem_azul_variavel.png)
 
