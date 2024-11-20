@@ -496,7 +496,7 @@ A repetição de cores na imagem permitiu à trie encontrar mais padrões, resul
 
 ## Teste com imagem em BitMap com cores iguais em tamanho variavel
 
-![Estatísticas de Compressão](images/imagem_azul_variavel.png)
+![Estatísticas de Compressão](images/imagem%20azul_variavel.png)
 
 ### Descrição
 
