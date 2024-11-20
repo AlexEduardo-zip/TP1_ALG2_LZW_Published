@@ -5,6 +5,13 @@ layout: home
 
 # TP1_ALG2: Implementação do Algoritmo LZW
 
+## Autores
+
+- **Nome:** Alex Eduardo Alves dos Santos
+  **Matrícula:** 2021032145  
+
+- **Nome:** Murilo Ribeiro
+
 * TOC
 {:toc}
 
