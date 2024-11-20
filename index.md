@@ -374,7 +374,7 @@ Além disso, as visualizações oferecem uma maneira intuitiva de comparar o des
 
 Um texto gerado pelo site www.lipsum.com contém diversas repetições e obteve os seguintes resultados realizando a compressão com tamanho fixado em 12 bits:
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 0.0616 segundos  
 Tamanho Original: 12885 bytes  
@@ -396,7 +396,7 @@ Dada a natureza do texto com muitas repetições, a compressão foi bastante efi
 
 Um texto gerado pelo site www.lipsum.com, com diversas repetições, obteve os seguintes resultados realizando a compressão com tamanho variável, iniciando em 9 bits e com o máximo de 16 bits:
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 0.0636 segundos  
 Tamanho Original: 12885 bytes  
@@ -418,7 +418,7 @@ A compressão com tamanho variável produziu resultados semelhantes à compress�
 
 Um livro escolhido de forma arbitrária obteve os seguintes resultados realizando a compressão com tamanho fixado em 12 bits:
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 0.5695 segundos  
 Tamanho Original: 134541 bytes  
@@ -440,7 +440,7 @@ A compressão neste arquivo foi ligeiramente menos eficiente do que a do texto d
 
 Um livro escolhido de forma arbitrária obteve os seguintes resultados realizando a compressão com tamanho variável, iniciando em 9 bits e com o máximo de 16 bits:
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 0.7509 segundos  
 Tamanho Original: 134541 bytes  
@@ -464,7 +464,7 @@ Uma imagem em bitmap aleatória foi comprimida e obteve os seguintes resultados 
 
 ![Estatísticas de Compressão](images/imagem_normal_fixed.png)
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 2.9111 segundos  
 Tamanho Original: 818058 bytes  
@@ -488,7 +488,7 @@ A mesma imagem em bitmap foi preenchida com várias partes azuis da mesma cor, g
 
 ![Estatísticas de Compressão](images/imagem_azul_fixed.png)
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 9.9818 segundos  
 Tamanho Original: 1090614 bytes  
@@ -510,7 +510,7 @@ A repetição de cores na imagem permitiu à trie encontrar mais padrões, resul
 
 Utilizando a mesma imagem anterior, mas agora com compressão de tamanho variável (de 9 a 16 bits), a trie teve mais possibilidades de encontrar padrões, e obteve os seguintes resultados:
 
-**Relatório de Estatísticas de Compressão/Descompressão**  
+### Relatório de Estatísticas de Compressão/Descompressão
 ==================================================  
 Tempo de Compressão: 33.8141 segundos  
 Tamanho Original: 1090614 bytes  
